@@ -21,7 +21,7 @@ Automated tool for extracting hotel data from [Small Luxury Hotels of the World 
 ## 🛠️ Installation
 1. Clone the repository:
 
-git clone https://github.com/yourusername/slh-hotel-scraper.git
+git clone https://github.com/ahmad-1252/slh.git
 
 cd slh-hotel-scraper
 
